@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mùskldfksqù
+=======
+sqdsqfsqfqsf
+>>>>>>> version_2
